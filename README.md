@@ -1,2 +1,3 @@
 # skillquest
-Adivya Hackathon 2.0 Problem 7
+
+To do gamified coding platform
